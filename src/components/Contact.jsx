@@ -40,8 +40,8 @@ export default function Contact() {
                 <span className="ico" aria-hidden>✉️</span>
                 <div>
                   <small>Email</small>
-                  <a href="mailto:nagarjuna.charupally@example.com">
-                    nagarjuna.charupally@example.com
+                  <a href="mailto:arjun.cherupally@gmail.com">
+                    arjun.cherupally@gmail.com
                   </a>
                 </div>
               </li>
